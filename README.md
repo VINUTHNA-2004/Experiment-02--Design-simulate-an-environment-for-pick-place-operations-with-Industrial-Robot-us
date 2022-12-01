@@ -102,7 +102,7 @@ raise Exception("""Your license does not allow generating programs with more tha
 
 ```
 
-###Output:
+### Output:
 
 ![output](?raw=true)
 ![output](?raw=true)
