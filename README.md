@@ -104,9 +104,9 @@ raise Exception("""Your license does not allow generating programs with more tha
 
 ### Output:
 
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/d1.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/d2.png?raw=true)
+![output](https://github.com/VINUTHNA-2004/Experiment-02--Design-simulate-an-environment-for-pick-place-operations-with-Industrial-Robot-us/blob/main/d3.png?raw=true)
 
 ### RESULTS :  
 An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
